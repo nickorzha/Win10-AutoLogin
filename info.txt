@@ -1,0 +1,6 @@
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+InstallUtil.exe D:\Work\C#\AutoLogin\AutoLogin\bin\Debug\AutoLogin.exe
+
+services.msc
+
+

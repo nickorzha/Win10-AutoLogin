@@ -1,0 +1,11 @@
+D:\Work\C#\AutoLogin\AutoLogin\bin\Debug\AutoLogin.exe.config
+D:\Work\C#\AutoLogin\AutoLogin\bin\Debug\AutoLogin.exe
+D:\Work\C#\AutoLogin\AutoLogin\bin\Debug\AutoLogin.pdb
+D:\Work\C#\AutoLogin\AutoLogin\obj\Debug\AutoLogin.ProjectInstaller.resources
+D:\Work\C#\AutoLogin\AutoLogin\obj\Debug\AutoLogin.csproj.GenerateResource.cache
+D:\Work\C#\AutoLogin\AutoLogin\obj\Debug\AutoLogin.csproj.CoreCompileInputs.cache
+D:\Work\C#\AutoLogin\AutoLogin\obj\Debug\AutoLogin.exe
+D:\Work\C#\AutoLogin\AutoLogin\obj\Debug\AutoLogin.pdb
+D:\Work\C#\AutoLogin\AutoLogin\bin\Debug\Newtonsoft.Json.dll
+D:\Work\C#\AutoLogin\AutoLogin\bin\Debug\Newtonsoft.Json.xml
+D:\Work\C#\AutoLogin\AutoLogin\obj\Debug\AutoLogin.csproj.CopyComplete
